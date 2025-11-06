@@ -1,8 +1,9 @@
+Flask
+gunicorn
 dspy
 pydantic
-requests
+aiohttp
 beautifulsoup4
 pandas
-python-dotenv
 tqdm
-openai
+python-dotenv
