@@ -1,0 +1,8 @@
+dspy
+pydantic
+requests
+beautifulsoup4
+pandas
+python-dotenv
+tqdm
+openai

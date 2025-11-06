@@ -1,0 +1,65 @@
+.env
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Environment variable files
+.env
+.env.local
+.env.*.local
+
+# Jupyter and Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# Logs and debug
+*.log
+logs/
+debug.log
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# CSV or output data
+tags.csv
+*.csv
+*.json
+*.xlsx
+
+# Mermaid diagram outputs
+mermaid_*.md
+
+# DSPy cache or checkpoints
+.cache/
+dspy_cache/
+checkpoints/
+
+# OS/system files
+ehthumbs.db
+desktop.ini
