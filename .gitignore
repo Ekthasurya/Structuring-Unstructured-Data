@@ -46,14 +46,7 @@ Thumbs.db
 *.swp
 *.swo
 
-# CSV or output data
-tags.csv
-*.csv
-*.json
-*.xlsx
 
-# Mermaid diagram outputs
-mermaid_*.md
 
 # DSPy cache or checkpoints
 .cache/

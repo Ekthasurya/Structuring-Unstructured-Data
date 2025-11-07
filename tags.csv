@@ -1,0 +1,81 @@
+link,tag,tag_type
+https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,ecosystem services,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,sustainable food systems,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,business processes,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,farming practices,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,environmental footprint,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,climate change,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,greenhouse gas emissions,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,water scarcity,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,water pollution,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,land degradation,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,deforestation,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,environment friendly methods,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,crops,Crop
+https://en.wikipedia.org/wiki/Sustainable_agriculture,livestock,Crop
+https://en.wikipedia.org/wiki/Sustainable_agriculture,soil,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,biodiversity,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,permaculture,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,agroforestry,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,mixed farming,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,multiple cropping,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,crop rotation,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,land sparing,Process
+https://en.wikipedia.org/wiki/Sustainable_agriculture,natural habitats,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,human population,Concept
+https://en.wikipedia.org/wiki/Sustainable_agriculture,dietary,Concept
+https://www.nature.com/articles/d41586-025-03353-5,Rachel Fieldhouse,Person
+https://www.nature.com/articles/d41586-025-03353-5,Nature,Publication
+https://www.nature.com/articles/d41586-025-03353-5,Sydney,Location
+https://www.nature.com/articles/d41586-025-03353-5,Australia,Location
+https://www.nature.com/articles/d41586-025-03353-5,Alzheimer’s disease,Disease
+https://www.nature.com/articles/d41586-025-03353-5,Proceedings of the National Academy of Sciences,Publication
+https://www.nature.com/articles/d41586-025-03353-5,PubMed,Database
+https://www.nature.com/articles/d41586-025-03353-5,Google Scholar,Database
+https://www.nature.com/articles/d41586-025-03353-5,"Ravndal, A.",Person
+https://www.nature.com/articles/d41586-025-03353-5,Ageing,Process
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,United States government,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,.gov,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,HTTPS,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,Creative Commons Attribution 4.0 International License,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,cued auditory task switching,Process
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,task preparation,Concept
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,response-set overlap,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,chronic food insecurity,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,transitory food insecurity,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,trade liberalization,Process
+https://www.fao.org/3/y4671e/y4671e06.htm,2002 food crisis in Southern Africa,Event
+https://www.fao.org/3/y4671e/y4671e06.htm,food security,Concept
+https://www.fao.org/3/y4671e/y4671e06.htm,World Food Summit (WFS),Event
+https://www.fao.org/3/y4671e/y4671e06.htm,FAO,Organization
+https://www.fao.org/3/y4671e/y4671e06.htm,World Bank,Organization
+https://www.fao.org/3/y4671e/y4671e06.htm,mid-1970s,Time Period
+https://www.fao.org/3/y4671e/y4671e06.htm,global food crisis,Event
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Heidi Newberg,Person
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Rensselaer Polytechnic Institute,Organization
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Frontiers in Astronomy and Space Sciences,Publication
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Earth,Planet
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,liquid water,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,single-celled life,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,multicellular life,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Human life,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,extraterrestrial life,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,space,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,speed of light,Concept
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,sun,Star
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,30 light-years,Distance
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,Earth-like exoplanet,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Hanle,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Tsering Dolkar,Person
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Venus,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Milky Way,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Ladakh,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Indian Astronomical Observatory,Organization
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Niruj Mohan Ramanujam,Person
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Indian Institute of Astrophysics,Organization
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Himalayan Chandra telescope,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,Digpa-ratsa Ri,Location
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,dark sky reserve,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,community,Concept
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,light pollution,Concept
